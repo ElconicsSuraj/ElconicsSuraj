@@ -1,0 +1,23 @@
+void setup() {
+  // put your setup code here, to run once:
+Serial.begin(9600);
+Serial.print("Mosi :");
+Serial.println(MOSI);
+Serial.print("MISO :");
+Serial.println(MISO);
+Serial.print("CS :");
+Serial.println(SS);
+Serial.print("sck :");
+Serial.println(SCK);
+Serial.print("scl :");
+Serial.println(SCK);
+Serial.print("sda :");
+Serial.println(SDA);
+
+
+}
+
+void loop() {
+  // put your main code here, to run repeatedly:
+
+}
