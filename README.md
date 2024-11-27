@@ -2,7 +2,8 @@
 - 👀 I’m interested in ...Embedded system , Arduino , ESP32 , Internet of things , 
 - 🌱 I’m currently learning ...( Microcontroller 8051 , ARM , PIC ) ,(language-C, EMBEDDED C , Python ) ,R-pi  
 - 💞️ I’m looking to collaborate on ...Embedded Related projects , Arduino based project , R-pi based prject
-- 📫 How to reach me ...Suraj.elconics@gmail.com , WWW.Elconics.com
+- 📫 How to reach me ...Suraj.elconics@gmail.com
+- 
 
 <!---
 ElconicsSuraj/ElconicsSuraj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
